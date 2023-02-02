@@ -1,0 +1,97 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\asus\\Desktop\\Back-END\\Home\\WebApplication2\\WebApplication2\\wwwroot\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\asus\\Desktop\\Back-END\\Home\\WebApplication2\\WebApplication2\\wwwroot\\css\\font-awesome-animation.css",
+      "PackagePath": "staticwebassets\\css\\font-awesome-animation.css"
+    },
+    {
+      "Id": "C:\\Users\\asus\\Desktop\\Back-END\\Home\\WebApplication2\\WebApplication2\\wwwroot\\css\\font-awesome.min.css",
+      "PackagePath": "staticwebassets\\css\\font-awesome.min.css"
+    },
+    {
+      "Id": "C:\\Users\\asus\\Desktop\\Back-END\\Home\\WebApplication2\\WebApplication2\\wwwroot\\css\\style.css",
+      "PackagePath": "staticwebassets\\css\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\asus\\Desktop\\Back-END\\Home\\WebApplication2\\WebApplication2\\wwwroot\\fonts\\fontawesome-webfontba72.eot",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfontba72.eot"
+    },
+    {
+      "Id": "C:\\Users\\asus\\Desktop\\Back-END\\Home\\WebApplication2\\WebApplication2\\wwwroot\\fonts\\fontawesome-webfontba72.svg",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfontba72.svg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\Desktop\\Back-END\\Home\\WebApplication2\\WebApplication2\\wwwroot\\fonts\\fontawesome-webfontba72.ttf",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfontba72.ttf"
+    },
+    {
+      "Id": "C:\\Users\\asus\\Desktop\\Back-END\\Home\\WebApplication2\\WebApplication2\\wwwroot\\fonts\\fontawesome-webfontba72.woff",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfontba72.woff"
+    },
+    {
+      "Id": "C:\\Users\\asus\\Desktop\\Back-END\\Home\\WebApplication2\\WebApplication2\\wwwroot\\fonts\\fontawesome-webfontd41d.eot",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfontd41d.eot"
+    },
+    {
+      "Id": "C:\\Users\\asus\\Desktop\\Back-END\\Home\\WebApplication2\\WebApplication2\\wwwroot\\fonts\\glyphicons-halflings-regular.eot",
+      "PackagePath": "staticwebassets\\fonts\\glyphicons-halflings-regular.eot"
+    },
+    {
+      "Id": "C:\\Users\\asus\\Desktop\\Back-END\\Home\\WebApplication2\\WebApplication2\\wwwroot\\fonts\\glyphicons-halflings-regular.svg",
+      "PackagePath": "staticwebassets\\fonts\\glyphicons-halflings-regular.svg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\Desktop\\Back-END\\Home\\WebApplication2\\WebApplication2\\wwwroot\\fonts\\glyphicons-halflings-regular.ttf",
+      "PackagePath": "staticwebassets\\fonts\\glyphicons-halflings-regular.ttf"
+    },
+    {
+      "Id": "C:\\Users\\asus\\Desktop\\Back-END\\Home\\WebApplication2\\WebApplication2\\wwwroot\\fonts\\glyphicons-halflings-regular.woff",
+      "PackagePath": "staticwebassets\\fonts\\glyphicons-halflings-regular.woff"
+    },
+    {
+      "Id": "C:\\Users\\asus\\Desktop\\Back-END\\Home\\WebApplication2\\WebApplication2\\wwwroot\\fonts\\glyphicons-halflings-regulard41d.eot",
+      "PackagePath": "staticwebassets\\fonts\\glyphicons-halflings-regulard41d.eot"
+    },
+    {
+      "Id": "C:\\Users\\asus\\Desktop\\Back-END\\Home\\WebApplication2\\WebApplication2\\wwwroot\\img\\readme.txt",
+      "PackagePath": "staticwebassets\\img\\readme.txt"
+    },
+    {
+      "Id": "C:\\Users\\asus\\Desktop\\Back-END\\Home\\WebApplication2\\WebApplication2\\wwwroot\\img\\sativa.png",
+      "PackagePath": "staticwebassets\\img\\sativa.png"
+    },
+    {
+      "Id": "C:\\Users\\asus\\Desktop\\Back-END\\Home\\WebApplication2\\WebApplication2\\wwwroot\\js\\custom.js",
+      "PackagePath": "staticwebassets\\js\\custom.js"
+    },
+    {
+      "Id": "C:\\Users\\asus\\Desktop\\Back-END\\Home\\WebApplication2\\WebApplication2\\wwwroot\\plugins\\bootstrap.js",
+      "PackagePath": "staticwebassets\\plugins\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\asus\\Desktop\\Back-END\\Home\\WebApplication2\\WebApplication2\\wwwroot\\plugins\\jquery-1.10.2.js",
+      "PackagePath": "staticwebassets\\plugins\\jquery-1.10.2.js"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.WebApplication2.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.WebApplication2.props",
+      "PackagePath": "build\\WebApplication2.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.WebApplication2.props",
+      "PackagePath": "buildMultiTargeting\\WebApplication2.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.WebApplication2.props",
+      "PackagePath": "buildTransitive\\WebApplication2.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
